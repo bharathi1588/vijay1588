@@ -1,2 +1,9 @@
 # vijay1588
-Repository created via AI assistant for Vijay
+
+This is a repository created via AI assistant for Vijay.
+
+## Description
+This repository was created for demonstration purposes.
+
+## Author
+Created by AI assistant.
